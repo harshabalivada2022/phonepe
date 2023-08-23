@@ -3,4 +3,5 @@
 void main()
 {
 	printf("hello welcome");
+	printf("this is new class for aws class");
 }
